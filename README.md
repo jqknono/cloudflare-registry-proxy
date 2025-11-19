@@ -1,3 +1,7 @@
+# Archived due to docker.io `429`
+
+---
+
 # Cloudflare Registry Proxy
 
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -131,5 +135,6 @@ docker pull your-worker-subdomain.workers.dev/v2/library/nginx
 欢迎提交问题和功能建议！如果想要贡献代码，请Fork本仓库并创建Pull Request。
 
 ## 📄 许可证
+
 
 本项目采用MIT许可证 - 详情请查看[LICENSE](LICENSE)文件。
